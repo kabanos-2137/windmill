@@ -30,7 +30,7 @@ body {
   position: fixed;
   left: 0;
   top: 0;
-  transition: background-color 1500ms linear 550ms, border-radius 200ms linear 450ms, width 200ms linear 350ms, height 200ms linear 250ms;
+  transition: background-color 1500ms linear 350ms, border-radius 200ms linear 250ms, width 200ms linear 150ms, height 200ms linear 50ms;
 }
 
 #navbar a {
